@@ -1,0 +1,23 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+ro.config.low_ram=true
+ro.lmk.use_psi=true
+ro.lmk.use_minfree_levels=false
+ro.lmk.low=1001
+ro.lmk.medium=800
+ro.lmk.critical=0
+ro.lmk.critical_upgrade=false
+ro.lmk.upgrade_pressure=100
+ro.lmk.downgrade_pressure=100
+ro.lmk.kill_heaviest_task=true
+ro.lmk.kill_timeout_ms=0
+ro.lmk.debug=false
+
+# ro.lmk.psi_partial_stall_ms
+# ro.lmk.psi_complete_stall_ms
+# ro.lmk.thrashing_limit
+# ro.lmk.thrashing_limit_decay
+# ro.lmk.swap_util_max
+# ro.lmk.swap_free_low_percentage
