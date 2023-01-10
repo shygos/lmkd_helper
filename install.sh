@@ -113,7 +113,7 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "- Straton Kernel Companion Module"
+  ui_print "- LMKD Helper"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.

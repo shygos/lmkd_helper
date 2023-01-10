@@ -1,6 +1,6 @@
-id=straton_lmkd
-name=Straton Kernel Companion Module
+id=lmkd_helper
+name=LMKD Helper
 version=230110
 versionCode=4
 author=shygos
-description=A companion module for straton kernel used to setup userspace low memory killer daemon profile
+description=userspace low memory killer daemon configuration helper
