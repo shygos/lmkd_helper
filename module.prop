@@ -1,6 +1,6 @@
 id=straton_lmkd
 name=Straton Kernel Companion Module
-version=221221
-versionCode=3
+version=230110
+versionCode=4
 author=shygos
 description=A companion module for straton kernel used to setup userspace low memory killer daemon profile
