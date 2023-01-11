@@ -3,6 +3,7 @@
 # ro.sf.lcd_density=320
 
 ro.config.low_ram=false
+ro.config.per_app_memcg=false
 ro.lmk.use_psi=true
 ro.lmk.use_minfree_levels=false
 ro.lmk.low=1001
