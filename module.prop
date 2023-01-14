@@ -1,6 +1,6 @@
 id=lmkd_helper
 name=LMKD Helper
-version=230112
-versionCode=5
+version=230114
+versionCode=6
 author=shygos
 description=userspace low memory killer daemon configuration helper
