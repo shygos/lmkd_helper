@@ -16,7 +16,7 @@ ro.lmk.kill_heaviest_task=true
 ro.lmk.kill_timeout_ms=0
 ro.lmk.debug=false
 
-ro.lmk.use_new_strategy=true
+ro.lmk.use_new_strategy=false
 # ro.lmk.psi_partial_stall_ms
 # ro.lmk.psi_complete_stall_ms
 # ro.lmk.thrashing_limit
